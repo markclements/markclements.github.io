@@ -1,6 +1,8 @@
 ---
 title: "Island Rule Data Analysis"
-output: html_notebook
+output:
+  html_document: default
+  html_notebook: default
 ---
 Load necessary R packages to prepare data for analysis and visualization.
 
@@ -17,7 +19,8 @@ Google drive is used to store, share, and access the data. Data are in a google 
   
 Access the sheet data from Google Drive using the unique google URL key (`gs_key()`) for that sheet. Read data from sheet number 7 (ws =7) and store the values using function `gs_read_csv()` in a R dataframe called `data`.  
 ```{r}
-rd<-gs_key("1mqCaRwuZ0HnMAeVtQ4k-GktEFdChdJiUoweW5PXfZdU")
+gs_auth()
+rd<-gs_url("https://docs.google.com/spreadsheets/d/1mqCaRwuZ0HnMAeVtQ4k-GktEFdChdJiUoweW5PXfZdU/edit#gid=1368341786")
 data<-gs_read_csv(rd,ws=7)
 head(data)
 ```
