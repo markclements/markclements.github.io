@@ -4,4 +4,6 @@
 .Ruserdata
 markclements.github.io.Rproj
 .httr-oauth
+.DS_Store
+.gitignore
 
