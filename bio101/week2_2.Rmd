@@ -5,7 +5,6 @@ output: html_document
 The following must be completed prior to attending class:   
 **Readings, activities, and quizzes**    
 
-1. Visit [http://oli.cmu.edu](https://oli.cmu.edu/jcourse/webui/welcome.do) and complete readings, activities, and quizzes for **Unit 2, modules 10 and 11**
-2. [FOLLOW THIS LINK](https://docs.google.com/document/d/1Ige_ST2M28gyj_66Ui3r2PxqPdRAeoijY_P5mPTIKko/edit?usp=sharing) and complete the assignments. Bring your work to class. 
+1. [FOLLOW THIS LINK](https://docs.google.com/document/d/1Ige_ST2M28gyj_66Ui3r2PxqPdRAeoijY_P5mPTIKko/edit?usp=sharing) and complete the assignments. Bring your work to class. 
 
 [CLICK HERE TO RETURN TO SCHEDULE](schedule.html)

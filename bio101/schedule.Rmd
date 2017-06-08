@@ -5,21 +5,21 @@ output: html_document
 
 week  date           do this before class   topics                                                                                                                
 ----  -------------  ------                 -------------------------------------------------------------
-1     jun-20 tues                           Introduction to course; Teaching and Learning; Evidence and Argumetation   
-      jun-22 thurs   [CLICK](week1_1.html)  Scientific Inquiry
-2     jun-27 tues    [CLICK](week2_1.html)  Introduction to Chemistry            
-      jun-29 thurs   [CLICK](week2_2.html)  Chemistry, polar bonds, solubility, and pH                        
+1     jun-20 tues                           Introduction to course; Teaching and learning; Evidence and argumetation   
+      jun-22 thurs   [CLICK](week1_1.html)  Scientific inquiry
+2     jun-27 tues    [CLICK](week2_1.html)  Introduction to chemistry; Atoms; Ions; pH           
+      jun-29 thurs   [CLICK](week2_2.html)  Polar bonds; Solubility; Organic molecules                         
 3     jul-4 tues                            **Holiday: 4th of July-No Class**                          
-      jul-6 thurs    [CLICK]()                            
-4     jul-11 tues    [CLICK]()                              
-      jul-13 thurs   [CLICK]()                                
-5     jul-18 tues    [CLICK]()                             
-      jul-20 thurs   [CLICK]() 
-6     jul-25 tues    [CLICK]() 
-      jul-27 thurs   [CLICK]()        
-7     aug-1 tues     [CLICK]()              
-      aug-3 thurs    [CLICK]()
-8     aug-8 tues     [CLICK]()
+      jul-6 thurs    [CLICK](week3_2.html)  Cells; Lipds; Membranes; Transport; Diffusion                           
+4     jul-11 tues    [CLICK](week4_1.html)  Transport; Osmosis; Co-transport                        
+      jul-13 thurs   [CLICK](week4_2.html)  Energy and matter in biological systems      
+5     jul-18 tues    [CLICK](week5_1.html)  Energy and matter in biological systems                             
+      jul-20 thurs   [CLICK](week5_2.html)  Cell Division
+6     jul-25 tues    [CLICK](week6_1.html)  CellDivision 
+      jul-27 thurs   [CLICK](week6_2.html)  Inheritance      
+7     aug-1 tues     [CLICK](week7_1.html)  Inheritance            
+      aug-3 thurs    [CLICK](week7_2.html)  Gene Expression
+8     aug-8 tues     [CLICK]()              Gene Expression 
       aug-10 thurs   [CLICK]()
 
 
