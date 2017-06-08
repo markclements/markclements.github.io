@@ -1,32 +1,15 @@
 ---
 title: "BIO 101: Summer 2017 Course Schedule"
-output:
-  html_document:
-    md_extensions: +grid_tables
+output: html_document
 ---
 
-    
-####Thr-22-Jun: Scientific Inquiry  
-The following are due by 9AM:  
-
-1. Visit http://oli.cmu.edu and complete readings, activities, and quizzes for **Unit 1, modules 1-5**
-
-###Week 2
-####Tue-27-Jun: Introduction to Chemistry  
-
-1. Visit http://oli.cmu.edu and complete readings, activities, and quizzes for **Unit 2, modules 6-9** 
-  
-####Thr-29-Jun: Chemistry, polar bonds, solubility, and pH  
-
-1. 
-
-week  date           notes                                                                                                                   
-----  -------------  ---------------------------------------------------------------------
-1     jun-20 tues    [CLICK](week1_1.html):     
-      jun-22 thurs   [CLICK](): RStudi
-2     jun-27 tues    [CLICK]()               
-      jun-29 thurs   [CLICK]()                                      
-3     jul-4 tues     Holiday: 4th of July-No Class                          
+week  date           do this before class   topics                                                                                                                
+----  -------------  ------                 -------------------------------------------------------------
+1     jun-20 tues                           Introduction to course; Teaching and Learning; Evidence and Argumetation   
+      jun-22 thurs   [CLICK](week1_1.html)  Scientific Inquiry
+2     jun-27 tues    [CLICK](week2_1.html)  Introduction to Chemistry            
+      jun-29 thurs   [CLICK](week2_2.html)  Chemistry, polar bonds, solubility, and pH                        
+3     jul-4 tues                            **Holiday: 4th of July-No Class**                          
       jul-6 thurs    [CLICK]()                            
 4     jul-11 tues    [CLICK]()                              
       jul-13 thurs   [CLICK]()                                

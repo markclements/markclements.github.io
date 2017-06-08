@@ -2,9 +2,8 @@
 output: html_document
 ---
 ###Week 1
-####Tue-20-Jun: Introduction to course  
-
-The following must be completed prior to attending class 22 Jun 2017:  
+  
+The following must be completed prior to attending class:  
 **Syllabus Contract**
 
 1. Please read the [**sylabus (CLICK HERE)**](google.com). You can access the document by clicking the link or by using the link located in the left-handed navigation bar in BlackBoard
@@ -23,5 +22,10 @@ The following must be completed prior to attending class 22 Jun 2017:
 8. Review the course details to make sure that you are registering for the correct course, and click “Register.”
 9. Click the return link at the bottom of the receipt page and you will be taken back to your OLI home page.
 10. Under “My Courses” you will see your registered course. You can double-check to make sure the correct course appears by confirming that the correct Course Key and instructors are listed.  
+   
+**Readings, activities, and quizzes**    
+
+1. Visit [http://oli.cmu.edu](https://oli.cmu.edu/jcourse/webui/welcome.do) and complete readings, activities, and quizzes for **Unit 1, modules 1-5**
+
 
 [CLICK HERE TO RETURN TO SCHEDULE](schedule.html)
