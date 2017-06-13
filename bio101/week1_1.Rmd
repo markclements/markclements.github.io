@@ -4,10 +4,11 @@ output: html_document
 ###Week 1
   
 The following must be completed prior to attending class:  
-**Syllabus Contract**
+  
+**Syllabus contract**
 
-1. Please read the [**sylabus (CLICK HERE)**](google.com). You can access the document by clicking the link or by using the link located in the left-handed navigation bar in BlackBoard
-2. [**CLICK HERE**](google.com) to access the syllabus acknowledgement form. 
+1. Please read the [**sylabus (CLICK HERE)**](https://docs.google.com/document/d/16y4AB1-bs-ZCTUogLR9nderGmlV8iDDNCqdGBZCJRFU/edit?usp=sharing). You can access the document by clicking the link or by using the link located in the left-handed navigation bar in BlackBoard
+2. [**CLICK HERE**](https://docs.google.com/forms/d/e/1FAIpQLSdFApRSx9FzmC68RZVyFW9t3W2_XPJveobeCi-iV8dtYHNrHQ/viewform?usp=sf_link) to access the syllabus acknowledgement form. 
 
 **Access textbook**  
 *Follow the steps below to access the course textbook and other course materials offered by the Open Learning Initiative.*
@@ -25,7 +26,7 @@ The following must be completed prior to attending class:
    
 **Readings, activities, and quizzes**    
 
-1. Visit [http://oli.cmu.edu](https://oli.cmu.edu/jcourse/webui/welcome.do) and complete readings, activities, and quizzes for **Unit 1, modules 1-5**
+1. Visit [**http://oli.cmu.edu**](https://oli.cmu.edu/jcourse/webui/welcome.do) and complete readings, activities, and quizzes for **Unit 1, modules 1-5**
 
 
-[CLICK HERE TO RETURN TO SCHEDULE](schedule.html)
+[**CLICK HERE TO RETURN TO SCHEDULE**](schedule.html)
