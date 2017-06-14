@@ -1,14 +1,12 @@
 ---
-title: 'BIO 101: Summer 2017 Course Schedule'
+title: ''
 output: 
   html_document:
     theme: cosmo
-    toc: true
-    toc_float:
-      collapsed: true
 ---
+#BIO 101: Summer 2017 Course Schedule {.tabset .tabset-fade .tabset-pills}
 
-#Week 1 (Jun 20--Jun 22)
+##Week 1 (Jun 20--Jun 22)
   
 ###Tues---Introduction to course; Teaching and learning; Evidence and argumetation 
   
@@ -47,7 +45,7 @@ The following must be completed prior to attending class:
 
 ----  
   
-#Week 2 (Jun 27--Jun 29)
+##Week 2 (Jun 27--Jun 29)
   
 ###Tues---Introduction to chemistry; Atoms; Ions; pH
   
@@ -69,7 +67,7 @@ The following must be completed prior to attending class:
   
 ----
   
-#Week 3 (Jul 4--Jul 6)
+##Week 3 (Jul 4--Jul 6)
 
 ###Tues---Holiday: 4th of July, NO CLASS
 
@@ -88,7 +86,7 @@ The following must be completed prior to attending class:
 
 ----
 
-#Week 4 (Jul 11--Jul 13)
+##Week 4 (Jul 11--Jul 13)
 
 ###Tues---Transport; Osmosis; Co-transport
 The following must be completed prior to attending class:   
@@ -105,7 +103,7 @@ The following must be completed prior to attending class:
 
 ----
 
-#Week 5 (Jul 18-Jul 20)
+##Week 5 (Jul 18-Jul 20)
 
 ###Tues---Energy and matter in bioloical systems
 
@@ -115,7 +113,7 @@ The following must be completed prior to attending class:
 
 ----
 
-#Week 6 (Jul 25--Jul 27)
+##Week 6 (Jul 25--Jul 27)
 
 ###Tues---Cell Division
 
@@ -125,7 +123,7 @@ The following must be completed prior to attending class:
 
 ----
 
-#Week 7 (Aug 1--Aug 3)
+##Week 7 (Aug 1--Aug 3)
 
 ###Tues---Inheritance
 
@@ -135,7 +133,7 @@ The following must be completed prior to attending class:
 
 ---
 
-#Week 8 (Aug 8--Aug 10)
+##Week 8 (Aug 8--Aug 10)
 
 ###Tues---Gene Expression
 
