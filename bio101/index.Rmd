@@ -2,11 +2,13 @@
 title: ''
 output: 
   html_document:
-    theme: cosmo
+    theme: spacelab
 ---
 #BIO 101: Summer 2017 Course Schedule {.tabset .tabset-fade .tabset-pills}
 
 ##Week 1 (Jun 20--Jun 22)
+
+----
   
 ###Tues---Introduction to course; Teaching and learning; Evidence and argumetation 
   
@@ -60,10 +62,18 @@ The following must be completed prior to attending class:
 ###Thur---Polar bonds; Solubility; Organic molecules
   
 The following must be completed prior to attending class:   
-   
+     
+**Sign up for a Go Formative Account**
+  
+1. Visit the following link: [goformative.com/#signup](http://goformative.com/#signup)
+2. Sign up as a: STUDENT
+3. The class code is: TZQJ473
+  
 **Readings, activities, and quizzes**    
 
-1. [FOLLOW THIS LINK](https://docs.google.com/document/d/1Ige_ST2M28gyj_66Ui3r2PxqPdRAeoijY_P5mPTIKko/edit?usp=sharing) and complete the assignments. Bring your work to class. 
+1. [FOLLOW THIS LINK](https://docs.google.com/document/d/1Jr68L_laHOwOK7us59mMr2zkgHrgqnDiAcbMsu2ywVA/edit?usp=sharing) and read the document carefully.
+2. [FOLLOW THIS LINK](http://goformative.com/student/#/assignments/WDVF692) and complete the assignment
+3. [FOLLOW THIS LINK](http://goformative.com/student/#/assignments/RRFE693) and complete the assignment
   
 ----
   
