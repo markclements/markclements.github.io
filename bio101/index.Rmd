@@ -83,7 +83,13 @@ The following must be completed prior to attending class:
 
 ----
 
-###Thur---Cells; Lipds; Membranes; Transport; Diffusion
+###Thur---Holiday: 4th of July, NO CLASS
+
+----
+
+##Week 4 (Jul 11--Jul 13)
+
+###Tues---Cells; Lipds; Membranes; Transport; Diffusion
 The following must be completed prior to attending class:   
    
 **Readings, activities, and quizzes**   
@@ -95,9 +101,7 @@ The following must be completed prior to attending class:
 
 ----
 
-##Week 4 (Jul 11--Jul 13)
-
-###Tues---Transport; Osmosis; Co-transport
+###Thurs---Transport; Osmosis; Co-transport
 The following must be completed prior to attending class:   
 **Readings, activities, and quizzes**    
 
@@ -107,7 +111,9 @@ The following must be completed prior to attending class:
  
 ----
 
-###Thur---Energy and matter in bioloical systems
+##Week 5 (Jul 18-Jul 20)
+
+###Tues---Energy and matter in bioloical systems
 The following must be completed prior to attending class:   
   
 **Readings, activities, and quizzes**    
@@ -118,9 +124,7 @@ The following must be completed prior to attending class:
   
 ----
 
-##Week 5 (Jul 18-Jul 20)
-
-###Tues---Energy and matter in bioloical systems
+###Thurs---Energy and matter in bioloical systems
 The following must be completed prior to attending class:   
   
 **Readings, activities, and quizzes**   
@@ -130,7 +134,9 @@ The following must be completed prior to attending class:
 
 ----
 
-###Thur---Cell Division
+##Week 6 (Jul 25--Jul 27)
+
+###Tues---Cell Division
 The following must be completed prior to attending class:   
   
 **Readings, activities, and quizzes**  
@@ -139,9 +145,7 @@ Visit [http://oli.cmu.edu](https://oli.cmu.edu/jcourse/webui/welcome.do) and com
 
 ----
 
-##Week 6 (Jul 25--Jul 27)
-
-###Tues---Inheritance
+###Thurs---Inheritance
 The following must be completed prior to attending class:   
   
 **Readings, activities, and quizzes**  
@@ -150,7 +154,9 @@ The following must be completed prior to attending class:
   
 ----
 
-###Thur---Inheritance
+##Week 7 (Aug 1--Aug 3)
+
+###Tues---Inheritance
 The following must be completed prior to attending class:   
   
 **Readings, activities, and quizzes** 
@@ -159,9 +165,8 @@ The following must be completed prior to attending class:
 
 ----
 
-##Week 7 (Aug 1--Aug 3)
 
-###Tues---Gene Expression
+###Thurs---Gene Expression
 The following must be completed prior to attending class:   
   
 **Readings, activities, and quizzes** 
@@ -171,7 +176,9 @@ The following must be completed prior to attending class:
   
 ----
 
-###Thur---Gene Expression
+##Week 8 (Aug 8--Aug 10)
+
+###Tues---Gene Expression
 The following must be completed prior to attending class:   
   
 **Readings, activities, and quizzes** 
@@ -180,20 +187,12 @@ The following must be completed prior to attending class:
 
 ---
 
-##Week 8 (Aug 8--Aug 10)
 
-###Tues---Body Systems
-
-**Readings, activities, and quizzes** 
-
-1. TBD
-
-----
-
-###Thur---Body Systems
+###Thurs---Body Systems
 
 **Readings, activities, and quizzes** 
 
 1. TBD
 
 ----
+
