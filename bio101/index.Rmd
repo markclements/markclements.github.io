@@ -63,17 +63,13 @@ The following must be completed prior to attending class:
   
 The following must be completed prior to attending class:   
      
-**Sign up for a Go Formative Account**
-  
-1. Visit the following link: [goformative.com/#signup](http://goformative.com/#signup)
-2. Sign up as a: STUDENT
-3. The class code is: TZQJ473
   
 **Readings, activities, and quizzes**    
-
+  
 1. [FOLLOW THIS LINK](https://docs.google.com/document/d/1Jr68L_laHOwOK7us59mMr2zkgHrgqnDiAcbMsu2ywVA/edit?usp=sharing) and read the document carefully.
-2. [FOLLOW THIS LINK](http://goformative.com/student/#/assignments/WDVF692) and complete the assignment
-3. [FOLLOW THIS LINK](http://goformative.com/student/#/assignments/RRFE693) and complete the assignment
+2. The assignments below use a free, online service called goFormative. I have already registered you for this service. After clicking the link for an activity, please login. **Your username is: your 8 digit student id and the password is: bio101.**
+3. [FOLLOW THIS LINK](https://goformative.com/formatives/migrated-8602282/view) and complete the assignment
+4. [FOLLOW THIS LINK](https://goformative.com/formatives/migrated-8593347/view) and complete the assignment
   
 ----
   
@@ -97,7 +93,7 @@ The following must be completed prior to attending class:
 1. Visit [http://oli.cmu.edu](https://oli.cmu.edu/jcourse/webui/welcome.do) and complete readings, activities, and quizzes for **Unit 3, modules 15** 
 2. Visit [http://oli.cmu.edu](https://oli.cmu.edu/jcourse/webui/welcome.do) and complete readings, activities, and quizzes for **Unit 4, modules 19,20,21,22** 
 3. [FOLLOW THIS LINK](https://docs.google.com/document/d/1YxderUcsrFO75yhR6czT1bTjLHghLjSzsFJaetfzk_E/edit?usp=sharing) and read the document carefully. 
-4. [FOLLOW THIS LINK](http://goformative.com/student/#/assignments/XHQP763) complete the assignment.
+4. [FOLLOW THIS LINK](https://goformative.com/formatives/migrated-8603370/view) complete the assignment.Username: student id, password: bio101.
 
 ----
 
@@ -106,8 +102,8 @@ The following must be completed prior to attending class:
 **Readings, activities, and quizzes**    
 
 1. [FOLLOW THIS LINK](https://docs.google.com/document/d/14s4s1nZmKGqErBqXn2Eaz2AZPli37kH45uYLd7adUns/edit?usp=sharing) and read the document carefully. 
-2. [FOLLOW THIS LINK](http://goformative.com/student/#/assignments/RCNH973) and complete the assignments. 
-3. [FOLLOW THIS LINK](http://goformative.com/student/#/assignments/NRPD422) and complete the assignments. 
+2. [FOLLOW THIS LINK](https://goformative.com/formatives/migrated-8603468/view) and complete the assignments. Username: student id, password: bio101
+3. [FOLLOW THIS LINK](https://goformative.com/formatives/migrated-8603554/view) and complete the assignments. Username: student id, password: bio101
  
 ----
 
@@ -120,7 +116,7 @@ The following must be completed prior to attending class:
   
 1. Visit [http://oli.cmu.edu](https://oli.cmu.edu/jcourse/webui/welcome.do) and complete readings, activities, and quizzes for **Unit 5, modules 24 and 25**
 2. [FOLLOW THIS LINK](https://docs.google.com/document/d/12RTC6c2XbqSa9n_GSkHqSfjkpX08myScF2QIdNmIkig/edit?usp=sharing) and read the document carefully.
-3. [FOLLOW THIS LINK](http://goformative.com/student/#/assignments/RVHH496) and complete the assignments.
+3. [FOLLOW THIS LINK](https://goformative.com/formatives/migrated-8605592/view) and complete the assignments.Username: student id, password: bio101
   
 ----
 
