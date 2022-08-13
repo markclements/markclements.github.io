@@ -21,7 +21,7 @@ library(googlesheets4)
 Instructor: Mark D. Clements, PhD  
 Email: [mclements\@necc.mass.edu](mailto:mclements@necc.mass.edu){.email}  
 Office: E-373  
-Office Hours: M and W (after lab) or by appointment (I am flexible!)
+Office Hours: M(12-2) T(2-3) W(9-10) R(2-3) or by appointment (I am flexible!)
 
 About Me: My name is Dr. Mark Clements, but my students call me "Dr. C". I have been teaching at the college for 10 years. I am an Ecologist who uses computers, data, and models to make sense of the world. It is my goal to not only introduce you to Biology but to also help you to understand and apply biological ideas and scientific practices to the real world.
 
@@ -36,7 +36,11 @@ About Me: My name is Dr. Mark Clements, but my students call me "Dr. C". I have 
 
 # Course Information
 
-Meeting Times: M and W (2-3:15 E369); W (11-1:30 E356)  
+Meeting Times:
+  
+1. BIO 111-2: M and W (2-3:15 E369); W (11-1:30 E356)  
+2. BIO 111-T9: T and R (9:30-10:45 E260); R (11-1:30 E356)  
+
 Credits: 4  
 Prerequisites: Reading proficiency or RWR090 Reading Writing and Reasoning Minimum Grade of: C
 
