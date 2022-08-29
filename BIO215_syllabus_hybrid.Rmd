@@ -23,7 +23,7 @@ library(googlesheets4)
 Instructor: Mark D. Clements, PhD\
 Email: [mclements\@necc.mass.edu](mailto:mclements@necc.mass.edu){.email}\
 Office: E-373\
-Office Hours: M(12-2) T(2-3) W(9-10) R(2-3) or by appointment (I am flexible!)
+Office Hours: M(12-1) T(2-3) W(9-10) R(2-3) or by appointment (I am flexible!)
 
 About Me: My name is Dr. Mark Clements, but my students call me "Dr. C". I have been teaching at the college for over 10 years. I am an Ecologist who uses computers, data, and models to make sense of the world. It is my goal - as your mentor and instructor - to not only introduce you to Ecology but to also help you to understand and apply ecological ideas and scientific practices in the real world.
 
