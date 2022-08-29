@@ -38,7 +38,7 @@ sched %>%
   filter(!is.na(Title)) %>%
   relocate(`Due Date`, .after = Title) %>%
   relocate(Title, .before = Assignment) %>%
-  mutate(Assignment = str_replace_all(Assignment, "\\n\\(111-2, MW\\)", "")) %>%
+  mutate(Assignment = str_replace_all(Assignment, "\\n\\(111-T9, TR\\)", "")) %>%
     gt(rowname_col = "Module",
     groupname_col = "Week")
 ```

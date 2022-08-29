@@ -1,0 +1,37 @@
+---
+title: "General Ecology Schedule"
+author: ""
+date: "Fall 2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+library(tidyr)
+library(googlesheets4)
+library(gt)
+library(glue)
+library(lubridate)
+gs4_deauth()
+sheet_names("1W3OzEC1s0Rbw2TPgli6gBY5LYhmYVNRSgx1x7iVNlU4")
+sched <- googlesheets4::read_sheet("1W3OzEC1s0Rbw2TPgli6gBY5LYhmYVNRSgx1x7iVNlU4",
+                          sheet = "BIO215_fall")
+```
+
+```{r echo = FALSE, message=FALSE,results = 'asis'}
+sched %>%
+  mutate(Week = glue("Week {Week}")) %>%
+  filter(!is.na(`Assignment Title`)) %>%
+  mutate(wday = wday(`Due Date`,label = TRUE),
+         day = day(`Due Date`),
+         month = month(`Due Date`,label = TRUE)) %>%
+  mutate(text = glue("{wday}, {month} {day}")) %>%
+  select(-day, -month, -wday, -`Due Date`) %>%
+  rename(`Due Date` = text) %>%
+  #select(-`Readings and Notes`) %>%
+   gt(rowname_col = "Module",
+    groupname_col = "Week")
+```
+
+

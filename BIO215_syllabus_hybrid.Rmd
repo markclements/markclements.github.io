@@ -1,0 +1,256 @@
+---
+title: "| Northern Essex Community College \n| Department of Natural Sciences\n| BIO
+  215 - General Ecology\n"
+output:
+  html_document:
+    toc: no
+  pdf_document:
+    toc: no
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+library(knitr)
+library(googlesheets4)
+```
+
+# Instructor Contact Information
+
+::: {style="display: flex;"}
+<div>
+
+Instructor: Mark D. Clements, PhD\
+Email: [mclements\@necc.mass.edu](mailto:mclements@necc.mass.edu){.email}\
+Office: E-373\
+Office Hours: M(12-2) T(2-3) W(9-10) R(2-3) or by appointment (I am flexible!)
+
+About Me: My name is Dr. Mark Clements, but my students call me "Dr. C". I have been teaching at the college for over 10 years. I am an Ecologist who uses computers, data, and models to make sense of the world. It is my goal - as your mentor and instructor - to not only introduce you to Ecology but to also help you to understand and apply ecological ideas and scientific practices in the real world.
+
+</div>
+
+<div>
+
+<!-- ![Dr. Mark Clements](me.jpg) -->
+
+</div>
+:::
+
+ # Course Information
+
+Meeting Times: T 11:00-1:30 PM  
+Credits: 4  
+Prerequisites: Reading proficiency and Writing proficiency or RWR090 Reading Writing and Reasoning Minimum Grade of: C or ENG101 or higher Minimum Grade of: C and Fndns of Algebra proficiency or MAT022 or higher Minimum Grade of: C
+
+# General Course Description
+
+This course aims to discuss the major ecological principles, focusing on organisms and the factors affecting their abundance and distribution, population structure and dynamics, community structure and processes, ecosystem processes and the biology of conservation. By the end of this course, you should be able discuss the complex linkages among the biotic and abiotic factors that structure natural communities, explain how these factors may be measured, and use models to predict impacts of change.
+
+# General Course Objectives
+
+## A2B Mass Transfer Ecology Course Outcomes (ECO):
+
+ECO1 - Identify and explain ecological principles (at the individual, population, community, and ecosystem levels) and their roles in sustaining life on Earth.  
+ECO2 - Critically evaluate and effectively use sources of ecological literature.  
+ECO3 - Apply ecological tools and techniques to answer ecological questions.  
+
+## Essential Core Competencies (ECC):
+
+ECC1 - Questioning and constructing hypotheses: generate a scientific question or construct one or more hypotheses about a real world event, observation, phenomenon, data, scenario, or model  
+ECC2 - Planning investigations: design an experimental method or identify a set of observations that can be used to answer a scientific question or test a claim or hypothesis  
+ECC3 - Developing and using models: construct a mathematical, graphical, computational, symbolic, or pictorial representation and use it to explain or predict an event, observation, or phenomenon  
+ECC4 - Analyzing and interpreting data: analyze data, using quantitative thinking [^1], and interpret its meaning in the context of a question, claim, or hypothesis and data collected from an experiment or observation(s)  
+ECC5 - Constructing explanations and arguments from evidence: construct or evaluate claims and explanations using evidence  
+ECC6 - Evaluating information: find and assess the validity, credibility, and/or relevance of information and ideas  
+  
+[^1]: Quantitative thinking involves the use of mathematics, statistics, computational algorithms, or other forms of quantitative analysis to interpret results within the context of a given event, observation, or phenomenon  
+
+# Intensive Core Skills Objectives
+
+## Written Communication Intensive (WCI):
+
+WCI1 - Use writing to develop and explore relevant course content and or ideas.  
+WCI2 - Compose essays geared to specific purposes and/or audiences according to the needs of a discipline.  
+WCI3 - Create a thesis, find and use evidence to support it, and document material when necessary, as appropriate to the discipline.  
+WCI4 - Organize and present content clearly, according to the conventions of the discipline.  
+WCI5 - Apply instructor feedback for revising and editing formal essay assignments.  
+
+# Course Materials
+
+A textbook is not required for this course. All learning activities are free and accessed using NECCs Blackboard learning management system. Everyone will need to have access to the internet and a web browser to participate; I recommend that you use [Google Chrome](https://www.google.com/chrome/). We will use [Microsoft Office 365](https://www.necc.mass.edu/succeed/student-support-services/technology-help/student-email/office-365-help-login/) for assignments that require word processing, presentations, drawing, or spreadsheets because and it is free for all NECC students to download and use. I also encourage all of you to share any blogs, web site URLs, books, videos, etc., that you find that might be of value to this course and your classmates.  
+  
+**[NECC requires students to have a laptop computer](https://www.necc.mass.edu/current-students/student-resources/laptop-requirement/) so you are expected to bring your laptop to all face-to-face meetings.**
+
+# Course Requirements
+
+## Methods of instruction
+
+The course is divided into several discrete, yet related modules. Modules have background readings, slide shows, and additional media (articles and videos) to introduce ideas and concepts. To help you remember, organize, and make sense of the basics we will engage in online, interactive discussions using these materials. Finally, there are activities that introduce scientific principles (experimental design, data collection, analysis, and evidence-based argumentation) and focus on the tools and techniques used in Ecology.
+
+## Workload
+
+The course is structured into weekly activities and requires a minimum of 5 hours of coursework per week. This is a hybrid course and coursework will be completed asynchronously or synchronously during face-to-face meeting times. I will be available to answer your questions during face-to-face meetings and will try to respond to any online questions you may have within 48 hours.
+
+### Reading + Discussion
+
+The course uses reading text, or watching videos, combined with interactive discussions to assess understanding of basic knowledge. Reading + Discussion participation and level of engagement with your classmates and the instructor is assessed using the free Perusall app through Blackboard. For each assignment I will evaluate the annotations you submit on time. Based on the overall body of your annotations, you will receive a score for each assignment as follows
+
+3 = demonstrates exceptionally thoughtful and thorough reading of the entire assignment\
+2 = demonstrates thoughtful and thorough reading of the entire assignment\
+1 = demonstrates superficial reading of the entire assignment OR thoughtful reading of only part of the assignment\
+0 = demonstrates superficial reading of only part of the assignment
+
+**How many annotations do I need to enter?**
+
+I want annotations to reflect the effort you put in your study of the text. It is unlikely that that effort will be reflected by just a few annotations per assignment. On the other extreme, 30 per assignment is probably too many, unless a number of them are superficial or short comments or questions (which is fine, because it is OK to engage in chat with your peers). Somewhere in between these two extremes is about right and thoughtful questions or comments that stimulate discussion or thoughtful and helpful answers to other students' questions will earn you a higher score for the assignment. 
+
+**What does "on time" mean?**
+
+The interactive, in-class learning activities I create in this course depend on you having done pre-class work in advance, so it is necessary to complete the reading and post your annotations by the deadline.  
+
+### Activities {#actvities}
+
+These activities are submitted for review by the intructor and include: worksheets, spreadsheets, short writing assignments, and/or drawings. Activities that are submitted on time can be resubmitted, after reviewing my feedback, to improve your performance. All activities are scored as 0 (resubmit) or 1 (satisfactory). The most important criteria for evaluating activities is student effort; so please try to complete the entire assignment and follow all instructions and provide me with the evidence that you have tried your best. If something requires more effort or correction, I will help you improve your work.  
+
+## Communication and interaction
+
+We will communicate asynchronously using Perusall chat or NECC email. I will also be avaiable during face-to-face meetimgs and scheduled [office hours](#instructor-contact-information). Importantly, you should ask questions and use me as much as possible. I am here for you!
+
+## Blackboard
+
+Please make sure to login to Blackboard at least 3-4 times a week on different days. Announcements, class resources, and assignment submission will be handled through Blackboard. I will regularly send broadcast emails to the class through the Blackboard; this will send an email to your NECC student account, you can change which email account these messages are sent in your Blackboard settings.
+
+## NECC Email
+
+Please try to check your student email at least once per day. If you do not like the student email interface, it is easy to set up on your desktop client or mobile device. You can also forward your student mail to any other email account ([link to instructions](https://support.microsoft.com/en-us/office/turn-on-automatic-forwarding-in-outlook-on-the-web-7f2670a1-7fff-4475-8a3c-5822d63b0c8e?ui=en-us&rs=en-us&ad=us)).
+
+Perusal chat is the best way to contact me asynchronously. If you send an email, you must include the following: 
+
+1. Your name  
+2. Your class (either course number or title)  
+3. A relevant subject  
+
+## Participation Policy
+
+Attendance during face-to-face meetings are required and your overall participation score will depend upon satisfactory completion of all course work assigned this semester. I will drop the lowest score for lab activity and allow 1 absence. 
+
+## Basis for Grading
+
+Please make sure you check your grades for activities and discussion participation. Keeping track will ensure there are no discrepancies and surprises and notify you when I have provided feedback. Remember if course work is not submitted, then no feedback will be given, and you will not have the opportunity to improve your work. Deadlines for all assignments are flexible; it is most important to me that you complete the work, to the best of your abilities, even if it is late.
+
+```{r echo = FALSE, results = 'asis'}
+kable(tribble(~"Category", ~"Weighted Percentage",
+          "Reading + Discussion", "60%",
+          "Activities + Homework", "40%"
+        ))
+```
+
+## Grading System
+
+```{r echo=FALSE, results='asis'}
+tibble::tribble(
+                ~"Grade", ~"QP Value", ~"Numeric Range/Comment",
+                  "A",  "4.00", "93-100",
+                  "A-", "3.70", "90-92",
+                  "B+", "3.30", "87-89",
+                  "B",  "3.00", "83-86",
+                  "B-", "2.70", "80-82",
+                  "C+", "2.30", "77-79",
+                  "C", "2.00", "73-76",
+                  "C-", "1.70", "70-72",
+                  "D+", "1.30", "67-69",
+                  "D", "1.00", "60-66",
+                  "F", "0.00", "59 or less; failure; no credit earned",
+                  "W", "0.00", "Withdrawal from course",
+                  "NW", "0.00", "Non-participation withdrawal"
+  ) %>% knitr::kable()
+
+```
+
+# Accessibility/Learning Disabilities
+
+Northern Essex Community College is committed to providing equal access to students with documented disabilities. To ensure equal access to this class (and your program) please contact the Learning Accommodations Center (LA Center) or Deaf and Hard of Hearing Services (DHHS) to engage in a confidential discussion about accommodations for the classroom and clinical/practicum settings. Accommodations are not provided retroactively. You are encouraged to register with the LA Center at the start of their program.
+
+***As your instructor, I feel I have a responsibility to do everything within reason to actively support a wide range of learning styles and abilities. As such, I have taken training and applied the principles of Universal Design for Learning (UDL) to this course. Feel free to discuss your progress in this course with me at any time. In addition, if you require any accommodations, submit your verified accommodations form to me during the first two weeks of the course.***
+
+## Learning Accommodations Center:
+
+Serving students with documented disabilities, such as learning disabilities, attention deficit disorders, autism spectrum disorders, brain injuries, chronic illness, low vision/blind, physical disabilities, psychiatric disabilities and seizure disorders.
+
+## Deaf and Hard of Hearing Services (DHHS):
+
+Serving students who are Deaf or Hard of Hearing. Accommodations are not provided retroactively. Students are encouraged to register with the LA Center or DHHS at the start of their program.
+
+## Contact information during COVID-19:
+
+The Learning Accommodations Center is scheduling remote appointments from 9:00 am to 5:00 pm. There are no face to face appointments being scheduled at this time. Communications can be flexible based on student's needs and may consist of the following communication options: email, phone, Zoom, Skype, and text messaging. To get started, students may contact us as outlined below:
+
+-   Call the LA Center main number 978-556-3654 or email [lacenter\@necc.mass.edu](mailto:lacenter@necc.mass.edu){.email}
+-   DHHS call 978-241-7045 (VP/Voice) or email [deafservices\@necc.mass.edu](mailto:deafservices@necc.mass.edu){.email}
+-   To request an Interpreter or communication access email: [interpret\@necc.mass.edu](mailto:interpret@necc.mass.edu){.email}
+
+# Statement on Plagiarism and Academic Integrity
+
+It is my goal to help you achieve your academic goals at NECC. Long term success is primarily determined by the skills and knowledge that you acquire from your coursework. It is most important that your academic achievements reflect your hard work and dedication to college. And when the latter is true, you will establish a reputation for honesty that will be more valuable than any grade that you receive in any class. Identifying ethical behaviors and establishing your personal integrity are the most important principles you will learn in college.
+
+The following guidelines have been prepared so that you will understand what is expected of you in maintaining academic honesty:
+  
+1. All work in this class must be yours, unless I give you permission to collaborate with someone else. Please do not share your work with others -- I encourage you to discuss work with others, but you must do your own work.  
+2. You should always give credit for material or ideas that you have obtained from a book, journal, magazine, or Web site. Please ask me for help if you are unsure how to properly acknowledge [your sources](http://necc.mass.libguides.com/noodletools). Failing to acknowledge that you have used another's material or ideas is considered cheating and plagiarism.
+
+> Definition of Plagiarism:
+>
+> -   "The art of stealing words, ideas, etc. of another and using them as your own." (Webster's Dictionary)\
+> -   "Take and use another author's thoughts, writings as one's own." (The Concise Oxford Dictionary)\
+> -   "The appropriation or imitation of the language, ideas, and thoughts of another author and the representation of them as one's original work."(The Random House Dictionary of the English Language)
+
+Overt violations of these rules will result in any or all of the following:
+
+-   a grade of "0" for the assignment in question, or  
+-   a grade of "F" in the course,  
+-   or disciplinary action according to College rules  
+
+# Netiquette Guidelines
+
+Please keep in mind the following guidelines when communicating with each other during this course:[^2]
+
+[^2]: *The Core Rules of Netiquette are adapted from the book Netiquette by Virginia Shea*. Website: <http://www.albion.com/netiquette/corerules.html>
+
+-   Always think before you write. Without the use of non-verbal communication as in conversation, your message can be misinterpreted. Please consider your tone before you hit submit.\
+
+-   Keep it relevant. There are places to chat and post for fun. Please do not digress from the discussion in the assigned questions.\
+
+-   Never use all caps. This is the equivalent of yelling in the online world. Only use capital letters when they are appropriate.\
+
+-   Make sure that you are using appropriate grammar and structure.\
+
+-   Treat people in the same way as you would treat them face-to-face. It is easy to hide behind the computer. In some cases, it empowers people to treat others in ways they would not in person. Please treat your fellow learners with dignity and respect.
+
+-   Respect the time of others. This class may require you to work in groups. Please respect the time of others in your group. You may be one that works best with the pressures of a deadline, but others may not. The key to a successful group is organization, communication and a willingness to do what it takes to get it done.
+
+# Getting Help
+
+I am here to help you with this course and to make this an enjoyable and worthwhile experience. If you would like assistance outside of class, please visit my [office hours](#instructor-contact-information) or send me a message to arrange an appointment. Please do not wait until the last moment to ask for help. Remember, I am just an e-mail away. NECC also offers FREE tutoring and other services at:<https://www.necc.mass.edu/succeed/academic-support-services/tutoring-center/>
+
+# Distance Education Course Interaction Plan (Form DE-2)
+
+This form is to be completed by the faculty of record. Students enrolled in this distance education course shall receive a copy of this completed form.
+
+Course Title: General Ecology  
+Faculty: Mark D. Clements  
+Email: [mclements\@necc.mass.edu](mailto:mclements@necc.mass.edu){.email}
+
+Online Hybrid: This form of education is characterized by a blend of web-based learning with traditional face-to-face interaction. 
+
+This course may include, but not be restricted to, the following interactions:
+
+```{r echo=FALSE, results='asis'}
+tribble(~"", ~"Yes",~"No",
+        "1. in person meetigs", "*","",
+        "2. telephone interactions", "", "*", 
+        "3. electronic interactions (email, internet …)", "*", "") %>% knitr::kable()
+```
+
+If yes, dates, times, places are to be specified: Weekly on Thursdays (11:00 - 1:30 PM) E356
+
+Students are required to engage in the following interaction(s) for successful completion of this course: Perusall discussions with me and other students; online viewing of reading assignments, videos, and other digital media; online and desktop use of Office 365 products; online assignment submission (documents, video, and other digital media) via blackboard, online use of simulation software.
