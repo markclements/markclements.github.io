@@ -1,7 +1,7 @@
 ---
 title: "General Ecology Schedule"
 author: ""
-date: "Fall 2022"
+date: "Spring 2023"
 output: html_document
 ---
 
@@ -16,7 +16,7 @@ library(lubridate)
 gs4_deauth()
 sheet_names("1W3OzEC1s0Rbw2TPgli6gBY5LYhmYVNRSgx1x7iVNlU4")
 sched <- googlesheets4::read_sheet("1W3OzEC1s0Rbw2TPgli6gBY5LYhmYVNRSgx1x7iVNlU4",
-                          sheet = "BIO215_fall")
+                          sheet = "BIO215_spring")
 ```
 
 ```{r echo = FALSE, message=FALSE,results = 'asis'}
