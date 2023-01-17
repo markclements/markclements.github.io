@@ -23,7 +23,7 @@ library(googlesheets4)
 Instructor: Mark D. Clements, PhD\
 Email: [mclements\@necc.mass.edu](mailto:mclements@necc.mass.edu){.email}\
 Office: E-373\
-Office Hours: M(12-1) T(2-3) W(9-10) R(2-3) or by appointment (I am flexible!)
+Office Hours: M(1-2) T(10-11; 12-1) R(11-12) or by appointment (I am flexible!)
 
 About Me: My name is Dr. Mark Clements, but my students call me "Dr. C". I have been teaching at the college for over 10 years. I am an Ecologist who uses computers, data, and models to make sense of the world. It is my goal - as your mentor and instructor - to not only introduce you to Ecology but to also help you to understand and apply ecological ideas and scientific practices in the real world.
 
@@ -36,8 +36,7 @@ About Me: My name is Dr. Mark Clements, but my students call me "Dr. C". I have 
 </div>
 :::
 
- # Course Information
-
+# Course Information
 Meeting Times: T 11:00-1:30 PM  
 Credits: 4  
 Prerequisites: Reading proficiency and Writing proficiency or RWR090 Reading Writing and Reasoning Minimum Grade of: C or ENG101 or higher Minimum Grade of: C and Fndns of Algebra proficiency or MAT022 or higher Minimum Grade of: C
@@ -251,6 +250,6 @@ tribble(~"", ~"Yes",~"No",
         "3. electronic interactions (email, internet …)", "*", "") %>% knitr::kable()
 ```
 
-If yes, dates, times, places are to be specified: Weekly on Thursdays (11:00 - 1:30 PM) E356
+If yes, dates, times, places are to be specified: Weekly on Thursdays (12:30- 3 PM) E356
 
 Students are required to engage in the following interaction(s) for successful completion of this course: Perusall discussions with me and other students; online viewing of reading assignments, videos, and other digital media; online and desktop use of Office 365 products; online assignment submission (documents, video, and other digital media) via blackboard, online use of simulation software.

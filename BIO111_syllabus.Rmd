@@ -21,7 +21,6 @@ library(googlesheets4)
 Instructor: Mark D. Clements, PhD  
 Email: [mclements\@necc.mass.edu](mailto:mclements@necc.mass.edu){.email}  
 Office: E-373  
-# change for new semester 
 Office Hours: M(1-2) T(10-11; 12-1) R(11-12) or by appointment (I am flexible!)
 
 About Me: My name is Dr. Mark Clements, but my students call me "Dr. C". I have been teaching at the college for 10 years. I am an Ecologist who uses computers, data, and models to make sense of the world. It is my goal to not only introduce you to Biology but to also help you to understand and apply biological ideas and scientific practices to the real world.
@@ -38,7 +37,6 @@ About Me: My name is Dr. Mark Clements, but my students call me "Dr. C". I have 
 # Course Information
 
 Meeting Times:
-# change for new semester
 1. BIO 111-9: M and W (9:30-10:45 E253); W (11-1:30 E356)
   
 Credits: 4  
@@ -259,7 +257,7 @@ tribble(~"", ~"Yes",~"No",
 ```
 
 
-If yes, dates, times, places are to be specified: BIO111-T9: Weekly on-campus on Tuesday (9:30-10:45, 11-1:30) and Thursday (9:30-10:45). BIO111-2: Weekly on campus on Monday (2-3:15) and Wednesday (11-1:30, 2-3:15).
+If yes, dates, times, places are to be specified: BIO111-9: Weekly on campus on Monday (9-10:45) and Wednesday (9-10:45, 11-1:30).
 
 Students are required to engage in the following interaction(s) for successful completion of this course: Perusall discussions with me and other students; online viewing of reading assignments, videos, and other digital media; online and desktop use of Office 365 products; online assignment submission (documents, video, and other digital media) via blackboard, online use of simulation software.
 
