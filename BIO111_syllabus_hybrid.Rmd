@@ -20,8 +20,8 @@ library(googlesheets4)
 
 Instructor: Mark D. Clements, PhD  
 Email: [mclements\@necc.mass.edu](mailto:mclements@necc.mass.edu){.email}  
-Office: E-373  
-# change for new semester 
+Office: E-373
+# change for new semester  
 Office Hours: M(1-2) T(10-11; 12-1) R(11-12) or by appointment (I am flexible!)
 
 About Me: My name is Dr. Mark Clements, but my students call me "Dr. C". I have been teaching at the college for 10 years. I am an Ecologist who uses computers, data, and models to make sense of the world. It is my goal to not only introduce you to Biology but to also help you to understand and apply biological ideas and scientific practices to the real world.
@@ -38,9 +38,9 @@ About Me: My name is Dr. Mark Clements, but my students call me "Dr. C". I have 
 # Course Information
 
 Meeting Times:
-# change for new semester
-1. BIO 111-9: M and W (9:30-10:45 E253); W (11-1:30 E356)
-  
+# change for new semester  
+1. BIO 111-B1A: W (2-4:30 E369) 
+
 Credits: 4  
 Prerequisites: Reading proficiency or RWR090 Reading Writing and Reasoning Minimum Grade of: C
 
@@ -90,11 +90,11 @@ A textbook is not required for this course. All learning activities are free and
 
 ## Methods of instruction
 
-The course is divided into several modules. Modules have interactive discusions of background readings, slide shows and additional media (articles and videos) and worksheets to introduce ideas. You will complete these before class and I will review them and identify difficult or confuisng ideas and create interactive, in-class activities to help you better understand and makes sense of the material. Finally, there are lab activities that introduce scientific principles (experimental design, data collection, analysis, and evidence-based argumentation) and focus on the tools and techniques used in Biology.  
+The course is divided into several modules. Modules have interactive discusions of background readings. The course may also include slide shows and additional media (articles and videos) and worksheets to introduce ideas. You will complete these and I will review them and identify difficult or confuisng ideas and provide feedback to you in my respsonse to help you better understand and makes sense of the material. Finally, there are lab activities that introduce scientific principles (experimental design, data collection, analysis, and evidence-based argumentation) and focus on the tools and techniques used in Biology.  
 
 ## Workload
 
-The requires a minimum of 5 hours of coursework per module and you will complete 1 module per week. Pre-class coursework is completed online, before class and lab activities will be completed during scheduled meeting times. Attendance is required for all face-to-face meetings.  
+The requires a minimum of 5 hours of coursework per week. Interactive readings and discussions are completed online and lab activities will be completed during scheduled meeting times. Attendance is required for all face-to-face meetings.  
 
 ### Reading + Discussion
 
@@ -107,15 +107,15 @@ The course uses reading text, or watching videos, combined with interactive disc
 
 **How many annotations do I need to enter?**
 
-I want annotations to reflect the effort you put in your study of the text. It is unlikely that that effort will be reflected by just a few annotations per assignment. On the other extreme, 30 per assignment is probably too many, unless a number of them are superficial or short comments or questions (which is fine, because it is OK to engage in chat with your peers). Somewhere in between these two extremes is about right and thoughtful questions or comments that stimulate discussion or thoughtful and helpful answers to other students' questions will earn you a higher score for the assignment. 
+I want annotations to reflect the effort you put in your study of the text. It is unlikely that that effort will be reflected by just a few annotations per assignment. On the other extreme, 30 per assignment is probably too many, unless a number of them are superficial or short comments or questions (which is fine, because it is OK to engage in chat with your peers). Somewhere in between these two extremes is about right and thoughtful questions or comments that stimulate discussion or thoughtful and helpful answers to other students' questions will earn you a higher score for the assignment. For this online course you must inlcude at least 8 annotations to recieve a score for the assignment. 
 
 **What does "on time" mean?**
 
-The interactive, in-class learning activities I create in this course depend on you having done pre-class work in advance, so it is necessary to complete the reading and post your annotations by the deadline.  
+The interactive readings and discussions are the only way to introduce content and improve your understanding of the material so it is necessary to complete the reading and post your annotations by the deadline so that I can help you learn the material. 
 
 ### Lab Activities and Homework
 
-These activities are submitted for review by the intructor and may include: worksheets, spreadsheets, short writing assignments, and/or drawings. Activities that are submitted on time can be resubmitted, after reviewing my feedback, to improve your performance. All activities are scored as 0 (resubmit) or 1 (satisfactory). The most important criteria for evaluating activities is student effort; so please try to complete the entire assignment and follow all instructions and provide me with the evidence that you have tried your best. If something requires more effort or correction, I will help you improve your work.
+These activities are submitted for review by the intructor and amy include: worksheets, spreadsheets, short writing assignments, and/or drawings. Activities that are submitted on time can be resubmitted, after reviewing my feedback, to improve your performance. All activities are scored as 0 (resubmit) or 1 (satisfactory). The most important criteria for evaluating activities is student effort; so please try to complete the entire assignment and follow all instructions and provide me with the evidence that you have tried your best. If something requires more effort or correction, I will help you improve your work.
 
 ## Communication and interaction
 
@@ -129,14 +129,14 @@ Please make sure to login to Blackboard every day. Announcements, class resource
 
 Please try to check your student email at least once per day. If you do not like the student email interface, it is easy to set up on your desktop client or mobile device. You can also forward your student mail to any other email account ([link to instructions](https://support.microsoft.com/en-us/office/turn-on-automatic-forwarding-in-outlook-on-the-web-7f2670a1-7fff-4475-8a3c-5822d63b0c8e?ui=en-us&rs=en-us&ad=us)).
 
-Microsoft Teams chat or Perusal chat is the best way to contact me. If you send an email, you must include the following:\
-- Your name\
-- Your class (either course number or title)\
-- A relevant subject
+Email or Perusal chat is the best way to contact me. If you send an email, you must include the following:  
+- Your name  
+- Your class (either course number or title)  
+- A relevant subject  
 
 ## Participation Policy
 
-We will meet 3 times per week; once for lab and twice for "lecture" and these meetings are not optional. If you can not make it to a face-to-face, on-campus meeting you will not be allowed to make up the work for that day. However, I will drop the lowest score for lab and pre-class activity and allow 2 "lecture" absences.    
+We will meet 1 time per week for lab and these meetings are not optional. If you can not make it to a face-to-face, on-campus meeting you will not be allowed to make up the work for that day. However, I will drop the lowest score for lab and online activity. 
 
 ## Basis for Grading
 
@@ -213,9 +213,9 @@ The following guidelines have been prepared so that you will understand what is 
 
 Overt violations of these rules will result in any or all of the following:
 
--   a grade of "0" for the assignment in question, or\
--   a grade of "F" in the course,\
--   or disciplinary action according to College rules
+-   a grade of "0" for the assignment in question, or  
+-   a grade of "F" in the course,  
+-   or disciplinary action according to College rules  
 
 # Netiquette Guidelines
 
@@ -247,7 +247,7 @@ Course Title: Introductory Biology\
 Faculty: Mark D. Clements\
 Email: [mclements\@necc.mass.edu](mailto:mclements@necc.mass.edu){.email}
 
-Traditonal, Face-to-face: This form of education is characterized by an emphasis on in-person ineractions between students and faculty.
+Online, hybrid: This form of education is characterized by a blend of web-based learning with traditional face-to-face interaction.
 
 This course may include, but not be restricted to, the following interactions:
 
@@ -259,7 +259,7 @@ tribble(~"", ~"Yes",~"No",
 ```
 
 
-If yes, dates, times, places are to be specified: BIO111-T9: Weekly on-campus on Tuesday (9:30-10:45, 11-1:30) and Thursday (9:30-10:45). BIO111-2: Weekly on campus on Monday (2-3:15) and Wednesday (11-1:30, 2-3:15).
+If yes, dates, times, places are to be specified: BIO111-B1A: Weekly on-campus on Wednesday (2-4:30) 
 
 Students are required to engage in the following interaction(s) for successful completion of this course: Perusall discussions with me and other students; online viewing of reading assignments, videos, and other digital media; online and desktop use of Office 365 products; online assignment submission (documents, video, and other digital media) via blackboard, online use of simulation software.
 
